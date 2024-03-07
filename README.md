@@ -15,3 +15,5 @@ My name is Katie, I'm a student in BDATA200
 My name is Drake Monfregola, I am a student of BData 200
 
 My name is syd. I'm a student.
+
+My name is Jaime Yazzie and its sunny today
